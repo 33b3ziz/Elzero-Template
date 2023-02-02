@@ -1726,10 +1726,6 @@ footer .container {
   gap: 40px;
 }
 
-footer .container .box {
-  padding: 10px;
-}
-
 @media (max-width: 767px) {
   footer .container .box {
     text-align: center;
