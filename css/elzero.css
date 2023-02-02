@@ -1820,7 +1820,6 @@ footer .container .address {
 footer .container .address div {
   display: flex;
   align-items: center;
-  justify-content: center;
 }
 
 @media (max-width: 767px) {
