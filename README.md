@@ -1,2 +1,0 @@
-# Elzero-Template
-Elzero Template
